@@ -11,4 +11,3 @@ function Home_body(){
 }
 
 export default Home_head
-export default Home_body
