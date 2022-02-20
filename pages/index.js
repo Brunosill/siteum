@@ -1,9 +1,5 @@
 function Home_head(){
-    return <head>
-        <meta charset='UTF-8'></meta>
-        <meta name="viewport" content="width=device-width"></meta>
-        <title>JKA Paraiba</title>
-    </head>
+    return  <title>JKA Paraiba</title>
 }
 
 function Home_body(){
